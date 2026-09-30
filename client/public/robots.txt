@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vozativa-4nblreks.manus.space/sitemap.xml
